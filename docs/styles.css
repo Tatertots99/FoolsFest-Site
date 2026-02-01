@@ -92,3 +92,8 @@ body {
   --bs-link-color: #465259;       /* River Bed */
   --bs-link-hover-color: #e4ca69; /* Equator */
 }
+
+.rsvp-center {
+  display: flex;
+  justify-content: center;
+}
