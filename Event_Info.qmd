@@ -9,16 +9,12 @@ editor: visual
 
 #### **What: FoolsFest, a co-created campout**
 
-#### **When: April 24- 27, 2025**
+#### **When: April 30-May 03, 2026**
 
-#### **Where: [Live Oak Campground, Santa Barbara County, CA]**
-
-  [Live Oak Campground, Santa Barbara County, CA]: https://www.google.com/maps/place/Live+Oak+Camp/@34.5543562,-119.8818684,15z/data=!4m6!3m5!1s0x80e9437d99e398fd:0x811c9e578a278160!8m2!3d34.5543562!4d-119.8818684!16s%2Fg%2F1tdftg1k?entry=ttu
+#### **Where: [Live Oak Campground, Santa Barbara County, CA](https://www.google.com/maps/place/Live+Oak+Camp/@34.5543562,-119.8818684,15z/data=!4m6!3m5!1s0x80e9437d99e398fd:0x811c9e578a278160!8m2!3d34.5543562!4d-119.8818684!16s%2Fg%2F1tdftg1k?entry=ttu)**
 
 #### 
 
 #### 
 
-![][1]
-
-  [1]: img/pecker_oak.jpeg
+![](img/pecker_oak.jpeg)

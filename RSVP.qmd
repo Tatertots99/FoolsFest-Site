@@ -3,8 +3,8 @@ title: "RSVP"
 editor: visual
 ---
 
-###### Click [here](https://forms.gle/REh3z7awaCqKMsns6) to RSVP for FoolsFest!
+###### Click [here](https://docs.google.com/forms/d/e/1FAIpQLSf26Si4LmurfKL-bgHXWCx1Lb4N0j-b76Vn7QnOs1T2RE5phg/viewform?usp=header) to RSVP for FoolsFest!
 
-####
+#### 
 
 ![](img/monocle_pecker.png)
