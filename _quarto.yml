@@ -5,7 +5,7 @@ project:
     - Schedule/*
     - img/**
 website:
-  title: "FoolsFest 2025"
+  title: "FoolsFest 2026"
   favicon: jesters_cap_icon.png
   navbar:
     left:
@@ -21,8 +21,6 @@ website:
         text: Map
       - href: FAQ.qmd
         text: FAQ
-      - href: Sponsors.qmd
-        text: Sponsors
       #- href: /Schedule
         #text: Schedule
 

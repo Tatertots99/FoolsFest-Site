@@ -1,53 +1,94 @@
-/* css styles */
+/* ---------------- Header / Navbar ---------------- */
+.navbar {
+  background-color: #465259; /* River Bed */
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #d1d0cf; /* Quill Gray */
+}
+
+.navbar .nav-link:hover {
+  color: #e4ca69; /* Equator */
+}
+
+.navbar .nav-link.active {
+  color: #a27e45; /* Cape Palliser */
+  font-weight: bold;
+}
+
+/* ---------------- Body Text ---------------- */
 body {
-  background-color: #46286A; /* Replace this with your desired color */
+  color:  #a27e45; /* River Bed */
 }
 
-h4 {
-  color: bisque;
+/* ---------------- FAQ Page ---------------- */
+.page-faq dd {
+  color: #465259; /* River Bed */
 }
 
-h2 {
-  color: bisque;
+.page-faq dt {
+  color: #a27e45; /* Cape Palliser */
+  font-weight: bold;
 }
 
-h6 {
-  color: bisque;
-  font-size: 28px;
-}
-
-h1 {
-  color: thistle;
-}
-
-h5 {
-  text-align: center;
-}
-
+/* ---------------- Buttons ---------------- */
 .button {
+  background-color: #a27e45; /* Cape Palliser */
+  color: #d1d0cf;            /* Quill Gray */
   border: none;
-  color: pink;
   padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
   font-size: 32px;
-  margin: 4px 2px;
   cursor: pointer;
 }
 
-  .rsvp-button {
-    display: inline-block;
-    padding: 15px 30px;
-    font-size: 32px;
-    font-weight: bold;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 8px;
-    background-color: #DD9700; /* Eye-popping background color */
-    color: #fff; /* Text color */
-    border: 2px solid #fff; /* Border color same as background for a seamless look */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
-    transition: background-color 0.3s ease, transform 0.2s ease;
-  }
-  
+.button:hover {
+  background-color: #e4ca69; /* Equator */
+}
+
+.rsvp-button {
+  display: inline-block;
+  padding: 15px 30px;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+  background-color: #a27e45; /* Cape Palliser */
+  color: #d1d0cf;            /* Quill Gray */
+  border: 2px solid #d1d0cf;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.rsvp-button:hover {
+  background-color: #e4ca69; /* Equator */
+  transform: translateY(-2px);
+}
+
+/* ---------------- Margin Sidebar ("On This Page") ---------------- */
+.toc-wrapper {
+  background-color: #465259; /* River Bed */
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.nav-link {
+  color: #d1d0cf; /* Quill Gray */
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: #e4ca69; /* Equator */
+}
+
+.nav-link.active {
+  color: #a27e45 !important; /* Cape Palliser */
+  font-weight: bold;
+}
+
+/* ---------------- Global Link Colors ---------------- */
+:root {
+  --bs-link-color: #465259;       /* River Bed */
+  --bs-link-hover-color: #e4ca69; /* Equator */
+}
