@@ -98,8 +98,9 @@ body {
   justify-content: center;
 }
 
-/* Center the Quarto "about" template image */
-.quarto-about img {
-  display: block;
-  margin: 0 auto;
+@media (max-width: 768px) {
+  .quarto-about img {
+    width: 80%;
+  }
 }
+
