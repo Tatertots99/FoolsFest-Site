@@ -97,3 +97,9 @@ body {
   display: flex;
   justify-content: center;
 }
+
+/* Center the Quarto "about" template image */
+.quarto-about img {
+  display: block;
+  margin: 0 auto;
+}
