@@ -21,8 +21,8 @@ website:
         text: Map
       - href: FAQ.qmd
         text: FAQ
-      #- href: /Schedule
-        #text: Schedule
+      #- href: /Gallery of Fools
+        #text: Gallery of Fools
 
 
 format:
