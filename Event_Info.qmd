@@ -17,4 +17,4 @@ editor: visual
 
 #### 
 
-![](img/pecker_oak.jpeg)
+![](img/squirrel-clown.png)

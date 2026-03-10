@@ -7,6 +7,6 @@ editor: visual
 
 ##### 4600 CA-154, Santa Barbara, CA 93105
 
-![][1]
+![](img/Live_Oak_Satellite_Map.png)
 
-  [1]: img/Live_Oak_Satellite_Map.png
+![](img/weasel-jester.png)
